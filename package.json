@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-curso",
+  "version": "1.0.0",
+  "description": "un curso de nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QlaraMD1/Nodejs-pruebas.%20git.git"
+  },
+  "keywords": [
+    "nodejs",
+    "curso"
+  ],
+  "author": "Clara Maye Doñu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QlaraMD1/Nodejs-pruebas.%20git/issues"
+  },
+  "homepage": "https://github.com/QlaraMD1/Nodejs-pruebas.%20git#readme"
+}
